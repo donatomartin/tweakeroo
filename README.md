@@ -13,3 +13,8 @@ Compiling
 * Open a command prompt/terminal to the repository directory
 * run 'gradlew build'
 * The built jar file will be in build/libs/
+
+Donato's mods
+=============
+- Conditional Refill
+- AutoBadOmen
